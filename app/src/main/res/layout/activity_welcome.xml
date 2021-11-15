@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F7F7F7"
+    android:gravity="center"
+    tools:context=".view.WelcomeActivity">
+    <ImageView
+        android:layout_gravity="center"
+        android:src="@drawable/shopping"
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"/>
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_gravity="start"
+        android:src="@drawable/deliveryboy"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"/>
+    <TextView
+        android:text="Shopping On One Finger"
+        android:textAlignment="center"
+        android:layout_marginTop="25sp"
+        android:textStyle="bold|normal"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

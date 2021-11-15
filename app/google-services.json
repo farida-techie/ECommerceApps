@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368755052997",
+    "project_id": "ecommerceapps-dfc66",
+    "storage_bucket": "ecommerceapps-dfc66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368755052997:android:6553802ed64c0db7e73bac",
+        "android_client_info": {
+          "package_name": "com.malkinfo.ecommerceapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368755052997-3fj9rcv6aif26c7bkq1q3ssk5olcrjuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF8zr1ejG2fQ9yFPTK1WtYos6e0w_Hmto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368755052997-3fj9rcv6aif26c7bkq1q3ssk5olcrjuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Circular">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="CornerCut">
+        <item name="cornerSize">15dp</item>
+        <item name="cornerFamily">cut</item>
+    </style>
+
+
+    <style name="SpecificCornerRounded">
+        <item name="cornerSizeTopRight">40dp</item>
+        <item name="cornerSizeBottomLeft">40dp</item>
+        <item name="cornerFamilyTopRight">rounded</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+    </style>
+
+    <style name="Button8">
+        <item name="cornerSizeBottomRight">70%</item>
+        <item name="cornerSizeBottomLeft">70%</item>
+        <item name="cornerSizeTopLeft">40%</item>
+        <item name="cornerSizeTopRight">40%</item>
+    </style>
+
+    <style name="Button4">
+        <item name="cornerSize">30%</item>
+    </style>
+    <style name="ItemImag">
+        <item name="cornerSize">20%</item>
+    </style>
+    <style name="CatSS">
+        <item name="cornerSize">0dp</item>
+        <item name="cornerSizeBottomRight">50%</item>
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerFamilyTopRight">rounded</item>
+
+    </style>
+    <style name="DiamondCut">
+        <item name="cornerSize">75dp</item>
+        <item name="cornerFamily">cut</item>
+    </style>
+
+    <style name="textStyle">
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:text">@string/ligon</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold|normal</item>
+        <item name="android:textColor">@color/bg_screen1</item>
+    </style>
+    <style name="somllTextStyle">
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:text">@string/ligon</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/bg_screen1</item>
+    </style>
+
+    <style name="FabShape6">
+        <item name="cornerSize">0dp</item>
+        <item name="cornerSizeTopLeft">80%</item>
+        <item name="cornerFamily">cut</item>
+        <item name="cornerFamilyTopLeft">rounded</item>
+    </style>
+    <style name="FabShape5">
+        <item name="cornerSize">0dp</item>
+        <item name="cornerSizeTopRight">80%</item>
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerFamilyTopLeft">rounded</item>
+    </style>
+    <style name="FabShape2">
+        <item name="cornerSize">30%</item>
+    </style>
+
+    <style name="FabShape1">
+        <item name="cornerSize">50%</item>
+        <item name="cornerFamilyTopLeft">cut</item>
+        <item name="cornerFamilyTopRight">cut</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerFamilyBottomRight">rounded</item>
+    </style>
+
+    <style name="FabShape3">
+        <item name="cornerSize">50%</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerFamilyTopRight">rounded</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerFamilyBottomRight">cut</item>
+    </style>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">@color/green</item>
+    </style>
+
+</resources>

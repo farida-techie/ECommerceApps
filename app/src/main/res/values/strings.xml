@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">ECommerceApps</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="more_variety">More Variety</string>
+    <string name="ligon">Sign In</string>
+    <string name="sing">Sign Up</string>
+    <string name="start">GOT IT</string>
+
+    <string name="we_will_send_you_an">We will send you an</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hyderabad">Hyderabad</string>
+    <string name="charmeenar_purenehaveli">Charmeenar pureneHaveli</string>
+    <string name="choose_the">Choose the</string>
+    <string name="Zero">0</string>
+    <string name="search_bar">Search Bar</string>
+
+    <string name="home">Home</string>
+    <string name="my_account">My Account</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_rewards">My Rewards</string>
+    <string name="my_orders">My Orders</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="favourite_zone">Favourite Zone</string>
+    <string name="recipes">Recipes</string>
+    <string name="terms_and_conditions">Terms And Conditions</string>
+    <string name="share">Share</string>
+    <string name="best_offer">Best Offer</string>
+    <string name="see_all">See All</string>
+    <string name="all_category">All Category</string>
+
+    <string name="adding_list_of_item">Adding List Of Item</string>
+    <string name="cancel">Cancel</string>
+    <string name="you_adding_the_item">You Adding the Item…</string>
+    <string name="_500g">500g</string>
+    <string name="_ru">:  115</string>
+    <string name="total">Total</string>
+    <string name="_445">: 1,226</string>
+    <string name="_645">645</string>
+    <string name="ok_order_place">Ok Order Place</string>
+    <string name="kidsToy">Kids Toy</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="delete">Delete</string>
+    <string name="credit_card_information">Credit Card Information</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiration_date">Expiration Date</string>
+    <string name="cvv">CVV</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="add_to_card">Add Card</string>
+
+    <string name="track_order">Track Order</string>
+    <string name="estimated_time">ESTIMATED TIME</string>
+    <string name="_30_minutes">30 Minutes</string>
+    <string name="order_number">ORDER NUMBER</string>
+    <string name="c862787">#C862787</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="received_your_order">We have received your Order</string>
+    <string name="order_confirmed">Order Confirmed</string>
+    <string name="_confirmed">Your Order has been Confirmed</string>
+    <string name="order_processed">Order Processed</string>
+    <string name="preparing_order">we are preparing your order</string>
+    <string name="ready_to_pickup">Ready To Pickup</string>
+    <string name="for_pickup">Your Order is ready for pickup</string>
+    <string name="womancolth">Women\'s Clothes</string>
+    <string name="mencolth">Men Clothes</string>
+
+
+</resources>
