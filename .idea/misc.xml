@@ -3,12 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/backgrounds_shapes.xml" value="0.27384615384615385" />
         <entry key="app/src/main/res/drawable/ic_add_cart.xml" value="0.17777777777777778" />
         <entry key="app/src/main/res/drawable/ic_book.xml" value="0.17777777777777778" />
         <entry key="app/src/main/res/drawable/ic_cleansing.xml" value="0.17777777777777778" />
         <entry key="app/src/main/res/drawable/ic_credit_card.xml" value="0.17777777777777778" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/activity_otp.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/activity_slider.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/activity_verification.xml" value="0.25769927536231885" />
         <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/welcome_slider1.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/welcome_slider2.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/welcome_slider3.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/welcome_slider4.xml" value="0.25769927536231885" />
       </map>
     </option>
   </component>

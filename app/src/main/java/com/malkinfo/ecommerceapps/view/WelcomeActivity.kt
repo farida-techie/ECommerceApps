@@ -28,7 +28,7 @@ class WelcomeActivity : AppCompatActivity() {
             Handler().postDelayed(
                 {
                     startActivity(Intent(
-                        this@WelcomeActivity, MainActivity::class.java))
+                        this@WelcomeActivity, SliderActivity::class.java))
                     finish()
                 },3000
             )

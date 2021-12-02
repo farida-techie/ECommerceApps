@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.SliderActivity">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+    <LinearLayout
+        android:id="@+id/layout_dots"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dots_height"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/dots_margin_bottom"
+        android:gravity="center"
+        android:orientation="horizontal"
+        >
+
+    </LinearLayout>
+    <View
+        android:layout_above="@id/layout_dots"
+        android:alpha="0.5"
+        android:background="@color/greys"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+    <Button
+        android:id="@+id/btn_next"
+        app:backgroundTint="#00E60954"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:background="@null"
+        android:text="@string/next"
+        app:background="@null"
+        android:layout_margin="@dimen/margin_btn"
+        app:shapeAppearanceOverlay="@style/Button8"
+        android:textColor="@color/green"/>
+
+    <Button
+        android:id="@+id/btn_skip"
+        app:backgroundTint="#00E60954"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:background="@null"
+        android:text="@string/skip"
+        android:layout_margin="@dimen/margin_btn"
+        app:shapeAppearanceOverlay="@style/Button8"
+        android:textColor="@color/pink" />
+
+
+</RelativeLayout>
